@@ -1,9 +1,9 @@
-﻿namespace Mod.Properties;
+namespace Mod.Properties;
 
 internal static class BuildInfo
 {
     public const string NAME = "FlashlightIncreaser";
-    public const string DESCRIPTION = "Just for fun!";
+    public const string DESCRIPTION = "Increases the range and radius of the flashlight";
     public const string AUTHOR = "MrS4g0";
     public const string COMPANY = null;
     public const string VERSION = "1.0.1";
