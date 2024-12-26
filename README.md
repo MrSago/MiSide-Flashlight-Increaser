@@ -27,7 +27,7 @@
 
 Increases the range and radius of the flashlight by pressing the **F** key. Pressing it again returns the original state.
 
-## Mod pack installation
+## Mod installation
 
 - Install one of the supported mod loaders
 
@@ -39,8 +39,8 @@ Increases the range and radius of the flashlight by pressing the **F** key. Pres
 
 - Download [the latest version of the mod](https://github.com/MrSago/MiSide-Flashlight-Increaser/releases) **for the required loader:**
 
-  - KappiMod.MelonLoader.zip - for MelonLoader
-  - KappiMod.BepInEx.zip - for BepInEx
+  - FlashlightIncreaser.MelonLoader.zip - for the MelonLoader
+  - FlashlightIncreaser.BepInEx.zip - for the BepInEx
 
 - Extract files from the archive into the game folder
 
