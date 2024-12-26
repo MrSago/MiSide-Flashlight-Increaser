@@ -41,11 +41,12 @@ public class BepInExPlugin : BasePlugin, IModLoader
     {
         Instance = this;
         HarmonyInstance.PatchAll(typeof(BepInExPatches));
-        IL2CPPChainloader.AddUnityComponent(typeof(BepInExEventProxy));
+        IL2CPPChainloader.AddUnityComponent(typeof(FlashlightIncreaserBepInExEventProxy));
         ModCore.Init(this);
     }
 
-    private class BepInExEventProxy : MonoBehaviour
+    // Need to use unique class name to avoid conflicts with other mods
+    private class FlashlightIncreaserBepInExEventProxy : MonoBehaviour
     {
         private void Update() => Instance?.OnUpdate();
     }
