@@ -1,4 +1,4 @@
-# MiSide-FlashlightIncreaser
+# MiSide-Flashlight-Increaser
 
 ## Описание мода
 
@@ -14,7 +14,7 @@
     - Нам нужен **BepInEx-Unity.IL2CPP-win-x64-x.x.x**
     - Распакуйте содержимое архива в папку с игрой
 
-- Скачать [последнюю версию мода](https://github.com/MrSago/MiSide-FlashlightIncreaser/releases) **под нужный загрузчик:**
+- Скачать [последнюю версию мода](https://github.com/MrSago/MiSide-Flashlight-Increaser/releases) **под нужный загрузчик:**
 
   - FlashlightIncreaser.MelonLoader.zip - для MelonLoader
   - FlashlightIncreaser.BepInEx.zip - для BepInEx
@@ -37,7 +37,7 @@ Increases the range and radius of the flashlight by pressing the **F** key. Pres
     - We need **BepInEx-Unity.IL2CPP-win-x64-x.x.x**
     - Unzip the contents of the archive into the game folder
 
-- Download [the latest version of the mod](https://github.com/MrSago/MiSide-KappiMod/releases) **for the required loader:**
+- Download [the latest version of the mod](https://github.com/MrSago/MiSide-Flashlight-Increaser/releases) **for the required loader:**
 
   - KappiMod.MelonLoader.zip - for MelonLoader
   - KappiMod.BepInEx.zip - for BepInEx
