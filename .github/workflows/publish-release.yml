@@ -1,4 +1,4 @@
-name: Release
+name: Publish Release
 
 on:
   push:
@@ -12,6 +12,7 @@ jobs:
 
     env:
       MOD_NAME: FlashlightIncreaser
+      RELEASE_NAME: Flashlight-Increaser-${{ github.ref }}
 
     steps:
       - name: Checkout repository
@@ -61,7 +62,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ github.ref }}
-          release_name: ${{ env.MOD_NAME }} ${{ github.ref }}
+          release_name: ${{ env.RELEASE_NAME }}
           draft: false
           prerelease: false
 
