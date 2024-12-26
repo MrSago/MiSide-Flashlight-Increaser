@@ -6,7 +6,7 @@ internal static class BuildInfo
     public const string DESCRIPTION = "Just for fun!";
     public const string AUTHOR = "MrS4g0";
     public const string COMPANY = null;
-    public const string VERSION = "1.0.0";
+    public const string VERSION = "1.0.1";
     public const string GAMEVERSION = null;
     public const string DOWNLOADLINK = "https://github.com/MrSago/MiSide-FlashlightIncreaser";
     public const string PACKAGE = "com.flashlightincreaser.miside";
