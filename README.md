@@ -30,7 +30,7 @@
 
 - Веселитесь
 
-## Mod Description
+## Mod description
 
 Increases the range and radius of the flashlight by pressing the **F** key. Pressing it again returns the original state.
 
