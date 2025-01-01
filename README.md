@@ -23,8 +23,8 @@
 
 - Скачать [последнюю версию мода](https://github.com/MrSago/MiSide-Flashlight-Increaser/releases/latest) **под нужный загрузчик:**
 
-  - FlashlightIncreaser.MelonLoader.zip - для MelonLoader
   - FlashlightIncreaser.BepInEx.zip - для BepInEx
+  - FlashlightIncreaser.MelonLoader.zip - для MelonLoader
 
 - Извлечь файлы из архива в папку с игрой
 
@@ -46,8 +46,8 @@ Increases the range and radius of the flashlight by pressing the **F** key. Pres
 
 - Download [the latest version of the mod](https://github.com/MrSago/MiSide-Flashlight-Increaser/releases/latest) for **the required loader**:
 
-  - FlashlightIncreaser.MelonLoader.zip - for the MelonLoader
   - FlashlightIncreaser.BepInEx.zip - for the BepInEx
+  - FlashlightIncreaser.MelonLoader.zip - for the MelonLoader
 
 - Extract files from the archive into the game folder
 
