@@ -6,7 +6,7 @@ internal static class BuildInfo
     public const string DESCRIPTION = "Increases the range and radius of the flashlight";
     public const string AUTHOR = "MrS4g0";
     public const string COMPANY = null;
-    public const string VERSION = "1.0.5";
+    public const string VERSION = "1.0.4";
     public const string GAMEVERSION = null;
     public const string DOWNLOADLINK = "https://github.com/MrSago/MiSide-Flashlight-Increaser";
     public const string PACKAGE = "com.miside.flashlightincreaser";

@@ -21,7 +21,7 @@
   - [MelonLoader](https://github.com/LavaGang/MelonLoader/releases)
     - Просто используйте **установщик** последней версии
 
-- Скачать [последнюю версию мода](https://github.com/MrSago/MiSide-Native-Resolution-Option/releases/latest) **под нужный загрузчик:**
+- Скачать [последнюю версию мода](https://github.com/MrSago/MiSide-Flashlight-Increaser/releases/latest) **под нужный загрузчик:**
 
   - FlashlightIncreaser.MelonLoader.zip - для MelonLoader
   - FlashlightIncreaser.BepInEx.zip - для BepInEx
@@ -44,7 +44,7 @@ Increases the range and radius of the flashlight by pressing the **F** key. Pres
   - [MelonLoader](https://github.com/LavaGang/MelonLoader/releases)
     - Just use the latest version **installer**
 
-- Download [the latest version of the mod](https://github.com/MrSago/MiSide-Native-Resolution-Option/releases/latest) for **the required loader**:
+- Download [the latest version of the mod](https://github.com/MrSago/MiSide-Flashlight-Increaser/releases/latest) for **the required loader**:
 
   - FlashlightIncreaser.MelonLoader.zip - for the MelonLoader
   - FlashlightIncreaser.BepInEx.zip - for the BepInEx
