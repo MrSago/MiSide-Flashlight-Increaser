@@ -1,34 +1,13 @@
 # MiSide-Flashlight-Increaser
 
+## Already included in [KappiMod](https://github.com/MrSago/MiSide-KappiMod)
+
 ## Gif preview
 
 <details>
-  <summary>Может содержать спойлеры! (May contain spoilers!)</summary>
+  <summary>May contain spoilers! (Может содержать спойлеры!)</summary>
     <img src="./img/preview.gif" alt="gif preview">
 </details>
-
-## Описание мода
-
-Увеличивает дальность и радиус освещения фонарика нажатием клавиши **F**. Повторное нажатие возвращает исходное состояние.
-
-## Установка мода
-
-- Установить один из поддерживаемых загрузчиков **(я рекомендую поставить BepInEx)**:
-
-  - [BepInEx](https://github.com/BepInEx/BepInEx/releases)
-    - Нам нужен **BepInEx-Unity.IL2CPP-win-x64-6.x.x** (6-ая версия)
-    - Распакуйте содержимое архива в папку с игрой
-  - [MelonLoader](https://github.com/LavaGang/MelonLoader/releases)
-    - Просто используйте **установщик** последней версии
-
-- Скачать [последнюю версию мода](https://github.com/MrSago/MiSide-Flashlight-Increaser/releases/latest) **под нужный загрузчик:**
-
-  - FlashlightIncreaser.BepInEx.zip - для BepInEx
-  - FlashlightIncreaser.MelonLoader.zip - для MelonLoader
-
-- Извлечь файлы из архива в папку с игрой
-
-- Веселитесь
 
 ## Mod description
 
@@ -52,3 +31,26 @@ Increases the range and radius of the flashlight by pressing the **F** key. Pres
 - Extract files from the archive into the game folder
 
 - Have fun
+
+## Описание мода
+
+Увеличивает дальность и радиус освещения фонарика нажатием клавиши **F**. Повторное нажатие возвращает исходное состояние.
+
+## Установка мода
+
+- Установить один из поддерживаемых загрузчиков **(я рекомендую поставить BepInEx)**:
+
+  - [BepInEx](https://github.com/BepInEx/BepInEx/releases)
+    - Нам нужен **BepInEx-Unity.IL2CPP-win-x64-6.x.x** (6-ая версия)
+    - Распакуйте содержимое архива в папку с игрой
+  - [MelonLoader](https://github.com/LavaGang/MelonLoader/releases)
+    - Просто используйте **установщик** последней версии
+
+- Скачать [последнюю версию мода](https://github.com/MrSago/MiSide-Flashlight-Increaser/releases/latest) **под нужный загрузчик:**
+
+  - FlashlightIncreaser.BepInEx.zip - для BepInEx
+  - FlashlightIncreaser.MelonLoader.zip - для MelonLoader
+
+- Извлечь файлы из архива в папку с игрой
+
+- Веселитесь
